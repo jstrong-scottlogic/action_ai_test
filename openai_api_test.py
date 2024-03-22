@@ -36,7 +36,14 @@ def error_check():
 
 
 output = error_check()
-print(output.replace("\r", "\n\r"))
 
-with open("output.md", "w") as file:
-    file.write(output)
+# To print normally
+print(output)
+
+# To print in terminal
+# print(output.replace("\r", "\n\r"))
+
+
+# To make file
+# with open("output.md", "w") as file:
+#     file.write(output)
