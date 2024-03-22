@@ -1,0 +1,15 @@
+The area that is often overlooked are the impact on users. When that happens, the business misses out on an opportunity to signifiantly enhance its offering.
+
+Climate Change - The long term change in average whether patterns which is part of the natural life cycle of the Earth and is being acelerated by human related activities like burning fossil fuels. 
+
+Identity is all about why the organisation exists and what really matters to it. The believes, messages and purpose that make up the shared identity of the organisation. 
+
+The risks is reduced because you can toggle between the two systems but it is costly to run both. In terms of users, it makes the adoption less likely because users can stick to what they’re used to and are not forced to change immediately. However, it might give users some reassurance because they can always switch back to the legacy system while having the opportunity to try the new one. 
+
+Marginal Carbon Intensity - The carbon intensity of the extra electricity that were produced to meet the change in demand due to the load of a piece of software. It is a way of analysing the optimal time and location of carbon aware appleecahshuns. Within a grid’s energy sources, there is a base load of fossil fuel or nuclear energy and a mix of fluctuating renewable sources. It is widely seen that to meet an increase in demand there are two methods, pausing the curtailment of sustainable energy sources or increasing the base load of a fossil fuel source. 
+
+It’s still early days for EDGY as it is still being reviewed (full disclosure I have been part of the review process) and will be released as Open Source early in 2023 along with a supporting book. I continued to keep a close eye on its development and look forward to providing an update next year once it is launched and I’ve used it in anger. Whether EDGY truly simplifies or simply adds to the noise remains to be seen! 
+
+3. A Parallel migration allow user to switch between the legacy and new system. The two systems run simultaneously. Once the criteria for the new system are met, the legacy system is disabled. 
+
+These are terms that you will predominantly find in software sustainability and so you May not have heard of these before. 
