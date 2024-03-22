@@ -26,12 +26,15 @@ def format(markdown_text):
 
 def error_check():
     try:
+        api_key = sys.argv[1]
+        print(api_key)
         client = OpenAI(api_key=sys.argv[1])
         completion = client.chat.completions.create(
             model=model, messages=[{"role": "user", "content": prompt}]
         )
     except Exception as e:
-        return f"An error occurred: {e}"
+        print(f"An error occurred: {e}")
+        sys.exit(1)
     return format(completion.choices[0].message.content)
 
 
